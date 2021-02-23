@@ -29,6 +29,10 @@ THEN I exit the application, and the HTML is generated
 * Node.js
 * NPM
 
+# Installation: 
+* npm run test
+* node index.js 
+
 # Project Explanation: 
 Application builds team-profile based on user inputs.
 
